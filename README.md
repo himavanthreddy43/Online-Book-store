@@ -84,6 +84,7 @@ A typical order scenario includes:
 - `README.md` – Project overview and description (this file)
 
 ---
-(https://github.com/user-attachments/assets/6975425f-e5a8-4fb8-80d4-aa78741f13fa)
+![image](https://github.com/user-attachments/assets/54b13c9c-5bad-488b-ba2a-2cffc4721e9f)
+
 
 
